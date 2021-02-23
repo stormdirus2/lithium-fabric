@@ -87,6 +87,7 @@
     "gen.fast_layer_sampling.CachingLayerContextMixin",
     "gen.fast_layer_sampling.ScaleLayerMixin",
     "gen.fast_multi_source_biomes.MultiNoiseBiomeSourceMixin",
+    "gen.fast_netherrack_blobs.NetherrackReplaceBlobsFeatureMixin",
     "gen.fast_noise_interpolation.NoiseChunkGeneratorMixin",
     "gen.features.StructureFeatureMixin",
     "gen.perlin_noise.PerlinNoiseSamplerMixin",
